@@ -21,4 +21,3 @@ Do hlavní části jsem opět zařadila skládaný sloupcový graf zobrazující
 Tabulka uvádí počet dávek PN v jednotlivých krajích jak pro ženy, tak i pro muže.
 Použitím matice jsem zobrazila počet vyplacených dávek PN žen a mužů rozdělených podle jednotlivých typů PN. 
 
-Power BI vizualizace je v souboru Projekt.
